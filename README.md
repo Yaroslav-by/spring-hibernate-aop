@@ -111,7 +111,7 @@ By click on ADD button you can see this window. You can type information about n
 Here is a result.<br>
 <a href="https://ibb.co/P9dnJT7"><img src="https://i.ibb.co/RBqmthx/image.png" alt="image" border="0" /></a>
 <br><br>
-By click on Update button you can see this window. You can type new information about existing Employee and update him in Database.
+By click on Update button you can see this window. You can type new information about existing Employee and update him in Database.<br>
 <a href="https://ibb.co/T4gHjtp"><img src="https://i.ibb.co/dP5QCD1/image.png" alt="image" border="0" /></a> <br>
 Here is a result. <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dtm6MXk/image.png" alt="image" border="0" /></a>
