@@ -118,7 +118,7 @@ Here is a result. <br>
 <br><br>
 DELETE button just delete existing Employee from the Database.
 <br><br>
-Here is an example of AOP realisation in console by click on UPDATE button.
+Here is an example of AOP realisation in console by click on UPDATE button.<br>
 <a href="https://ibb.co/fNJKdhW"><img src="https://i.ibb.co/mypY5LK/image.png" alt="image" border="0" /></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
